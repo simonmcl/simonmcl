@@ -1,0 +1,10 @@
+Hi, I'm Simon McLoughlin. I've been working as a software engineer since 2011, primarily in the mobile space. I've worked with the majority of hybrid/cross-platfrom tools, e.g. Phonegap/Cordova, Titanium, Xamarin, Kony, React-Native and some custom built solutions. I feel very strongly that all these platforms suffer from the same fundamental problems/flaws, and that they all ultimately lead to a very poor experience for the end user for varying reasons. I've been working exclusively with Native Swift for many years, and believe very strongly that Native is the only realistic approach to delivering the best product to users.
+
+I do enjoy branching out to other technologies from time to time. In previous jobs i've up-skilled on Node.js, Angular 2+, CouchDB, CloudFactory, IBM's Watson AI tools, IoT etc, to build some proof of concept web / server side applications for research institutes. I enjoy learning new things and technologies in order to solve complex problems and build new products.
+
+I try to stay up to date with the latest standards and best practises from Apple and the Swift community. I don't believe one pattern or technology is the solution to every problem, and try to avoid shoe horning something into a place it doesn't belong. Sometimes I use MVC sometimes MVVM, depending on what the project needs. Sometimes I use Combine, others I use delegates / callbacks. I believe simplicity is best. If something makes sense, i'll add it, if it takes longer or offers no practical value beyond "thats what the book says", I won't. If an app has 3 screens and 2 network calls, I don't believe adding 80k lines of code, of third party libraries, to bring in reactive frameworks, object mappers, and UI frameworks is the best place to start. Stable apps are produced when things are kept simple and the code is small enough and easy enough to debug and maintain.
+
+Feel free to reach out on the social sites below if you have anything you'd like to discuss:
+
+- [Twitter](https://twitter.com/simon_mcl)
+- [Linkedin](https://www.linkedin.com/in/simonmcloughlin1/)
